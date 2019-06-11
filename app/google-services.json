@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "287778041089",
+    "firebase_url": "https://lddm-final-a33dc.firebaseio.com",
+    "project_id": "lddm-final-a33dc",
+    "storage_bucket": "lddm-final-a33dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287778041089:android:b32ceda739215ea9",
+        "android_client_info": {
+          "package_name": "br.com.lddm.vigilantesurbanos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287778041089-8anekupqb31vrt521f96p6lo7iqshaae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxtXsWNk4AIjd2PM-gH1gYhLBn30JBko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287778041089-8anekupqb31vrt521f96p6lo7iqshaae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
